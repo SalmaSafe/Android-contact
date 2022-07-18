@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".viewContactActivity">
 
-    <ImageView
+    <de.hdodenhof.circleimageview.CircleImageView
         android:id="@+id/ivcontact"
         android:layout_width="240dp"
         android:layout_height="240dp"
